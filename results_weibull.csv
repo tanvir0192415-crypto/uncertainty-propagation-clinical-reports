@@ -1,0 +1,7 @@
+method,term,coef,se,lower95,upper95,converged
+TRUE grade (oracle),grade_II,0.63,0.239,0.161,1.099,True
+TRUE grade (oracle),grade_III,0.778,0.258,0.271,1.284,True
+PLUG-IN label,grade_II,0.207,0.45,-0.676,1.09,True
+PLUG-IN label,grade_III,0.203,0.471,-0.719,1.126,True
+MARGINAL (probabilities),grade_II,1.771,0.716,0.367,3.175,True
+MARGINAL (probabilities),grade_III,1.606,0.695,0.244,2.968,True
